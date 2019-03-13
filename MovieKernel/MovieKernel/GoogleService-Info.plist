@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>39093620497-bfui1od784se4bimgqe0kg8dr0tphhgh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.39093620497-bfui1od784se4bimgqe0kg8dr0tphhgh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBjXoldDEdjtlvE9XinSvjeyEsYOOykFVI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>39093620497</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>kuruwita.com.MovieKernel</string>
+	<key>PROJECT_ID</key>
+	<string>movieslk-bd962</string>
+	<key>STORAGE_BUCKET</key>
+	<string>movieslk-bd962.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:39093620497:ios:a115dbaf2c8a19ea</string>
+	<key>DATABASE_URL</key>
+	<string>https://movieslk-bd962.firebaseio.com</string>
+</dict>
+</plist>
